@@ -1,0 +1,1 @@
+# Workout tracker using Nutrionix API and Sheety API to connect to a Google Sheets. I enter, in natural language, the workout I did and nutrionix parses the workout, duration, and calories burned and then I add that workout as a row to a google sheet using Sheety
